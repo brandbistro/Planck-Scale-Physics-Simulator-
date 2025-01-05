@@ -15,3 +15,5 @@ R
 "tests/planck-phenomena-nft.test.ts,9/4/94803afae25aa137b0edfbf2ae9160eba77f34f7
 `
 0contracts/distributed-computing-integration.clar,2/f/2f3daab4bb9ffb1cf38db551c23656cf7f2d5769
+_
+/tests/distributed-computing-integration.test.ts,2/0/203597e5f3c5be7791b1b5f5c5a6688a0080a69e
