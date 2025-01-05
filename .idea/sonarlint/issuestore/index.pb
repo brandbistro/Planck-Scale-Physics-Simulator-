@@ -17,3 +17,5 @@ R
 0contracts/distributed-computing-integration.clar,2/f/2f3daab4bb9ffb1cf38db551c23656cf7f2d5769
 _
 /tests/distributed-computing-integration.test.ts,2/0/203597e5f3c5be7791b1b5f5c5a6688a0080a69e
+=
+Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
