@@ -5,6 +5,21 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.distributed-computing-integration]
+path = 'contracts/distributed-computing-integration.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.incentive-token]
+path = 'contracts/incentive-token.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.planck-phenomena-nft]
+path = 'contracts/planck-phenomena-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.simulation-management]
 path = 'contracts/simulation-management.clar'
 clarity_version = 2
