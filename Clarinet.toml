@@ -10,6 +10,16 @@ path = 'contracts/incentive-token.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.planck-phenomena-nft]
+path = 'contracts/planck-phenomena-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.planck-phenomena-nft_]
+path = 'contracts/planck-phenomena-nft_.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.simulation-management]
 path = 'contracts/simulation-management.clar'
 clarity_version = 2
