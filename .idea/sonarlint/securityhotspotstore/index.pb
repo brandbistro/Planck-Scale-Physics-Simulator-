@@ -13,3 +13,5 @@ S
 #contracts/planck-phenomena-nft.clar,a/4/a474d93be259a9e6bb2d32b7c17c35d2e0590844
 R
 "tests/planck-phenomena-nft.test.ts,9/4/94803afae25aa137b0edfbf2ae9160eba77f34f7
+`
+0contracts/distributed-computing-integration.clar,2/f/2f3daab4bb9ffb1cf38db551c23656cf7f2d5769
